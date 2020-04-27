@@ -1,7 +1,7 @@
 
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
-
+//samin
 // called this way, it uses the default address 0x40
 Adafruit_PWMServoDriver board1 = Adafruit_PWMServoDriver(0x40);
 Adafruit_PWMServoDriver board2 = Adafruit_PWMServoDriver(0x41);
